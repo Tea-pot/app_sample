@@ -11,7 +11,6 @@ To run the webpack server please execute command> **npm run start**
 **Please make sure** that:
     const response = await fetch(`https://jobs.search.gov/jobs/search.json?query=${query}`);
     *please make sure to run app while server returning response I understand I had no rights to send-receive query*
-
     *please make sure to return correct response as per example send redData should return an Array with JSON*
 
 Best Regards,
